@@ -1,8 +1,6 @@
 # Pong-AI
 University of Toronto 2023 ESC180 Pong Contest 4th Place :>
 
-image
-
 How the bot works:
 
 If the ball is approaching, calculate the ball's landing spot
@@ -12,7 +10,6 @@ Potential improvements:
 
 If no hit position secures a win, force the ball to a corner where the return position can be predicted.
 Calculate how the ball might be returned before the hit, and eliminate any that will force an opponent victory.
-Link to pong demo: https://www.youtube.com/watch?v=FITEjcnJWJ8
 
 How to Run the Code
 You will need to install pygame
